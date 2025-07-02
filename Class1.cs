@@ -1,4 +1,4 @@
-﻿namespace MyChannel.Core
+﻿namespace MyChannel.Infra
 {
     public class Class1
     {
